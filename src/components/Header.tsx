@@ -24,7 +24,7 @@ function Header() {
           <nav className="flex gap-5 sm:gap-7 items-center">
             <ul className="hidden sm:flex gap-[3vw] text-[0.95rem] font-medium">
               <li>
-                <a href="/home">Home</a>
+                <a href="/">Home</a>
               </li>
               <li>
                 <a href="/product">Product</a>
