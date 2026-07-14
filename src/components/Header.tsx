@@ -27,7 +27,7 @@ function Header() {
                 <a href="/home">Home</a>
               </li>
               <li>
-                <a href="/store">Store</a>
+                <a href="/product">Product</a>
               </li>
               <li>
                 <a href="/about">About</a>
@@ -39,12 +39,12 @@ function Header() {
 
             <ul className="flex gap-4">
               <li>
-                <a href="/cart">
+                <a href="/favorite">
                   <HeartIcon className="h-6 w-6" />
                 </a>
               </li>
               <li>
-                <a href="/favorite">
+                <a href="/cart">
                   <ShoppingCartIcon className="h-6 w-6" />
                 </a>
               </li>
